@@ -2,23 +2,6 @@
 
 Build a small app where users can add Star Wars spaceships to their fleet and add passengers to it while monitoring the maximum capacity of the ships.
 
-● Refer to the SWAPI API docs here: https://swapi.dev/documentation
-● Use Redux for state management
-● Users can search for starships and add the star ships to their fleet
-● Users get an overview of their current fleet and see a bit of information
-● Each starship in the users fleet has a maximum amount of capacity
-(passengers+crew) that is shown via a bar graph inside the fleet overview
-○ The bar chart gets colored automatically depending on the usage of the
-capacity
-● Each starship can be inspected inside a detail-view. There the user sees the
-maximum capacity the passengers and the crew
-● Users can add passengers to the starships (increase the amount of passengers on
-board)
-● Users can not add more passengers than allowed on this ship
-● Users can reduce the amount of passengers from the starships
-● Users can remove the starships from their fleet
-● Stylize the webpage at will
-● Web Page should be responsive
 
 ############
 
