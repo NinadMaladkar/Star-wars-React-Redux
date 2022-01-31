@@ -1,9 +1,3 @@
-# Goal:
-
-Build a small app where users can add Star Wars spaceships to their fleet and add passengers to it while monitoring the maximum capacity of the ships.
-
-
-############
 
 # Getting Started with Create React App
 
